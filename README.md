@@ -1,4 +1,4 @@
-SASS Cusomer relationship project.
+Corp Sec Company project - SASS Cusomer relationship project.
 
 KodeUI - Vue.js, Laravel, Bootstrap - SPA Admin Kit
 
